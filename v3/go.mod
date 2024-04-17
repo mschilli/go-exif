@@ -7,6 +7,7 @@ go 1.12
 // replace github.com/dsoprea/go-utility/v2 => ../../go-utility/v2
 
 require (
+	github.com/mschilli/go-exif/v3 v3.0.0-20221003171958-de6cb6e380a8
 	github.com/dsoprea/go-logging v0.0.0-20200710184922-b02d349568dd
 	github.com/dsoprea/go-utility/v2 v2.0.0-20221003172846-a3e1774ef349
 	github.com/golang/geo v0.0.0-20210211234256-740aa86cb551
