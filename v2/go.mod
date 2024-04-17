@@ -1,4 +1,4 @@
-module github.com/dsoprea/go-exif/v2
+module github.com/mschilli/go-exif/v2
 
 go 1.13
 
